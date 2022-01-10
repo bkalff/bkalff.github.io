@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@500&display=swap');
+
+
+h1 {
+    color: ghostwhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40pt;
+
+}
+
+h2 {
+    color: darkred;
+    font-size: 30pt;
+    font-family: 'Assistant', sans-serif;
+}
+
+.bodyyy {
+    background-color: ghostwhite;
+}
+
+p {
+    font-family: 'Assistant', sans-serif;
+}
+
+li {
+    font-family: 'Assistant', sans-serif;
+}
+
+section {
+    background-color: rgb(212, 233, 252);
+    width: 60%;
+    margin: auto;
+    padding: 1%;
+    margin-bottom: 20px;
+}
+
+.section_btn {
+    background-color: rgb(212, 233, 252);
+    width: 60%;
+    margin: auto;
+    padding: 1%;
+    margin-bottom: 20px;
+}
+
+aside{
+    text-align: center;
+}
+
+header {
+    background-color: midnightblue;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 5px;
+    margin-bottom: 40px;
+}
+
+article {
+    width: 300px;
+    height: 200px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+input {
+    display: block;
+    margin: auto;
+}
+
+a.btn {
+    background-color: midnightblue;
+    border: 2px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    width: 30%;
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom: 20px;
+    font-family: 'Assistant', sans-serif;
+}
+
+a.btn:hover {
+    background-color: mediumblue;
+}
+
+a.btn:visited {
+    background-color: darkgrey;
+}
+
+a.lien {
+    text-decoration: none;
+}
+
+a.lien:visited {
+    color: blueviolet
+}
+
+.footer {
+    background-color: midnightblue;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+}
